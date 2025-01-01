@@ -1,0 +1,14 @@
+.warning,
+.classic {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.classic {
+    background-color: black;
+    color: white;
+}
+
+.warning {
+    background-color: yellow;
+}
